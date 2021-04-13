@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T07:27:23.207Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="bH2PYFHtN9Zbz9FnOKvK" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T07:29:20.279Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="YmPxhtoMAOKSFQqHTMpK" version="14.5.4" type="github">
   <diagram id="JmNzO3C2vtaQoQxHl0WQ" name="Page-1">
     <mxGraphModel dx="946" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,11 +19,20 @@
         <mxCell id="zf9nPzENGnupRXUo6p6O-3" value="检索模型" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" vertex="1" parent="1">
           <mxGeometry x="180" y="80" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zf9nPzENGnupRXUo6p6O-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=20;entryPerimeter=0;" edge="1" parent="1" source="zf9nPzENGnupRXUo6p6O-5" target="zf9nPzENGnupRXUo6p6O-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zf9nPzENGnupRXUo6p6O-5" value="学生党宝藏美妆&lt;br&gt;贫民窟女孩化妆品推荐&lt;br&gt;学生党最爱的美妆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="284" y="65" width="130" height="70" as="geometry" />
+          <mxGeometry x="284" y="65" width="136" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zf9nPzENGnupRXUo6p6O-6" value="相关话题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="135" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zf9nPzENGnupRXUo6p6O-10" value="内容标签" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="460" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zf9nPzENGnupRXUo6p6O-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
